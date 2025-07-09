@@ -43,3 +43,13 @@ Proyek ini merupakan bagian dari Tugas Akhir yang bertujuan untuk melakukan anal
 - Pie chart distribusi sentimen
 - Grafik akurasi dan loss selama pelatihan
 - Wordcloud kata dominan per sentimen
+
+## 📚 Referensi
+- IndoNLU Benchmark: https://github.com/indobenchmark/indonlu
+- KBBI & ID Sentiment Lexicon
+- [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
+
+## 🙋‍♀️ Penulis
+**Nama:** [Tasya Putri  Ramadhani]  
+**Email:** [tasyapr00@gmail.com]
+
